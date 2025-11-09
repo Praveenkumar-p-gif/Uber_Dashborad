@@ -55,6 +55,5 @@ The dashboard helps analyze key metrics such as **Bookings**, **Revenue**, **Cus
 - **DAX Measures**
 - **Data Modeling**
 
----
 
-## 📐 Data Model (Simplified)
+
