@@ -39,7 +39,7 @@ The dashboard helps analyze key metrics such as **Bookings**, **Revenue**, **Cus
 ![Vehicle](https://github.com/Praveenkumar-p-gif/Uber_Dashborad/blob/main/Vehical.png)
 
 ### **Revenue Page**
-![Revenue](<add-your-image-link-here>)
+![Revenue](https://github.com/Praveenkumar-p-gif/Uber_Dashborad/blob/main/Revenue.png)
 
 ### **Rider Page**
 ![Rider](<add-your-image-link-here>)
